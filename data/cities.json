@@ -1,40 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "La Orbada",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-01T16:11:29.790Z",
-      "notes": "",
-      "position": {
-        "lat": "41.11246878918088",
-        "lng": "-5.493164062500001"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Beauce la Romaine",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-01-01T16:11:38.612Z",
-      "notes": "",
-      "position": {
-        "lat": "47.96050238891509",
-        "lng": "1.4941406250000002"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Tel Aviv",
+      "cityName": "Givatayim",
       "country": "Israel",
       "emoji": "🇮🇱",
-      "date": "2024-01-01T16:53:41.133Z",
+      "date": "2024-03-04T16:46:08.118Z",
       "notes": "",
       "position": {
-        "lat": "32.17532188282321",
-        "lng": "34.82734680175782"
+        "lat": "32.06482844333352",
+        "lng": "34.80812072753907"
       },
-      "id": 98443203
+      "id": 1
+    },
+    {
+      "cityName": "Fuentemolinos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-04T16:51:15.828Z",
+      "notes": "",
+      "position": {
+        "lat": "41.60722821271717",
+        "lng": "-3.8671875000000004"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Pouques-Lormes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-04T16:51:20.121Z",
+      "notes": "",
+      "position": {
+        "lat": "47.30903424774781",
+        "lng": "3.7792968750000004"
+      },
+      "id": 3
     }
   ]
 }
